@@ -1,0 +1,79 @@
+body {
+  background-color: #cefdce;
+}
+/* Cor green escolhida pois remete a atividade física */
+#TP{
+outline: 1px solid #479e47;
+  background-color:#a9f4a9 ;
+  text-align: center;
+  
+#tab{
+  border-radius: 10px;
+}
+  
+ /* Fotos */ 
+}
+.ft {
+  height: 200px;
+  width: 250px;
+
+}
+.wpp {
+  height: 20px;
+  width: 20px;
+}
+
+.logo{
+  height: 100px;
+  width: 100px;
+}
+#p{
+  text-align: center;
+}
+/*Títulos*/
+h1{
+  color:#003300;
+}
+h2{
+  color:#003300;
+}
+
+/*Linha*/
+.linha{
+  height: 2px;
+  background-color: green;
+  margin: 0px;
+}
+
+.center{
+  text-align: center;
+}
+/* Menu */
+ul {
+    background-color: #0c5403; 
+}
+li{
+  display: inline
+}
+li a {
+    display: block;
+    color: white; 
+    text-align: center;
+    padding: 10px 12px; 
+    text-decoration: none;
+}
+
+.ol{
+  
+}
+/*Smartphone*/ 
+.container {
+    width: 90%; /* Define a largura máxima do conteúdo */
+    margin: 0 auto; /* Centraliza o conteúdo horizontalmente */
+    padding: 20px;
+}
+
+@media (max-width: 359px) {
+.container {
+    width: 90%; 
+}
